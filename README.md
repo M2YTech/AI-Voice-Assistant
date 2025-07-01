@@ -75,15 +75,7 @@ voice-assistant/
 🤝 Contributing
 You can fork and improve this voice assistant. If you add cool features like weather, reminders, or smart home controls, share them via Pull Requests!
 
-🧠 Built with Python — Customize and enjoy!
-
----
-
-Let me know if you'd like me to:
-
-- Zip this up for you,
-- Help you generate a GitHub banner/icon,
-- Or make this assistant offline-only by removing the APIs.
+🧠 Built with Python — By Muhammad Mohsini Yousafi. Customize and enjoy! 
 
 Ready to upload!
 
